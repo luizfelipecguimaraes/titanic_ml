@@ -1,4 +1,5 @@
 # 🚢 Previsão de Sobrevivência do Titanic com Machine Learning
+
 by: Felipe Guimarães
 
 Este projeto é um modelo de introdução ao Machine Learning em Python, desenvolvido para analisar os dados de passageiros do RMS Titanic e prever a probabilidade de sobrevivência com base em características como idade, classe, sexo e tarifa.
@@ -38,3 +39,9 @@ Após o treinamento, o modelo foi submetido à base de testes e avaliado atravé
 1. Clone este repositório para a sua máquina local.
 2. Certifique-se de ter o Python e as bibliotecas listadas instaladas (recomenda-se o uso do Anaconda).
 3. Execute o script `titanic_ml.py`.
+
+---
+### 👨‍💻 Author
+Developed by **Felipe Guimarães**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/luiz-felipe-cerqueira-guimaraes/)
